@@ -1,12 +1,10 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reggae+One&duration=1000&pause=800&color=831C95&multiline=true&width=435&lines=Junaid+Afzal;Machine+Learning+Engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=134359&width=435&lines=Hi%2C+Masooma+Zahra+Here!;AI+Engineer)](https://git.io/typing-svg)
 
+<a href="https://app.daily.dev/MasoomaZahra"><img align="right" src="https://api.daily.dev/devcards/v2/HKN9eLjD9IY4N4vH0MZQz.png?r=9wo" width="320" alt="Masooma Zahra's Dev Card"/></a>
 
-<a href="https://app.daily.dev/ImJunaidAfzal"><img align="right" src="https://api.daily.dev/devcards/d639079782a949158f0f1784f39bf870.png?r=9wo" width="320" alt="Junaid Afzal's Dev Card"/></a> 
+<img src="https://github-readme-stats.vercel.app/api?username=masooma-zahra&show_icons=true&theme=dark" width="495">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imjunaidafzal&show_icons=true&theme=dark" width="495">
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imjunaidafzal&theme=dark&ring=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Masooma-Zahra&theme=gruvbox-duo)](https://git.io/streak-stats)
 <br>
 <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjunaidafzal&layout=compact&theme=cobalt&hide_border=true"/>
 
