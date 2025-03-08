@@ -6,15 +6,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Masooma-Zahra&theme=gruvbox-duo)](https://git.io/streak-stats)
 <br>
-<img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjunaidafzal&layout=compact&theme=cobalt&hide_border=true"/>
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masooma-zahra&layout=compact&theme=cobalt&hide_border=true"/>
 
-<br>
-<!-- <img align="right" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="320" alt="AI"/>  -->
-<br>
-</p>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjunaidafzal&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masooma-Zahra&theme=2077)
 <br>
 
 
